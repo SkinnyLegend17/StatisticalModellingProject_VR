@@ -1,10 +1,11 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+My goal for this project is to better understand and apply all my knowledge of python and statistical modelling. The purpose of this project is to apply this knowledge by utilizing the City Bikes API to retrieve information of bike stations within the City of our choice, and the various POI's within a location. 
 
 ## Process
 ### (your step 1)
+- First connected to the City Bikes 
 ### (your step 2)
 
 ## Results
