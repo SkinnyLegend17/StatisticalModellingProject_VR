@@ -5,7 +5,8 @@ My goal for this project is to better understand and apply all my knowledge of p
 
 ## Process
 ### (your step 1)
-- First connected to the City Bikes 
+- First connected to the City Bikes API and retrieve all available bike stations in that city (city of choice is Barcelona).
+- 
 ### (your step 2)
 
 ## Results
