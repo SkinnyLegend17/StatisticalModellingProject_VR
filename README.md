@@ -18,7 +18,7 @@ My goal for this project is to better understand and apply all my knowledge of p
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 
 ## Challenges 
-(discuss challenges you faced in the project)
+The part that I had the most challenges with was connecting to the Foursquare and Yelp API, for my api_key was not being read properly. This section of the project is what took the most time to troubleshoot.
 
 ## Future Goals
-(what would you do if you had more time?)
+If I had more time, I would have choosen a different city to do my analysis on, or dedicate more time into understanding the dynamics of sending requests to API's, etc. 
