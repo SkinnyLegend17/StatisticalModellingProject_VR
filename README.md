@@ -6,8 +6,11 @@ My goal for this project is to better understand and apply all my knowledge of p
 ## Process
 ### (your step 1)
 - First connected to the City Bikes API and retrieve all available bike stations in that city (city of choice is Barcelona).
-- 
+- For each bike station, use the API to call the latitude, longitude and number of bikes within the city
+- Parse through the results and put into a Pandas dataframe.
 ### (your step 2)
+- Connect to Foursquare and Yelp API to send requests
+- 
 
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
